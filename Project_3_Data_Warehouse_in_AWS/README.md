@@ -97,3 +97,8 @@ Here are the steps to run the project:
 ### Example Analytics
 Please check this notebook for sample analytics [`analytics.ipynb`](analytics.ipynb)
 
+
+##### Citation
+Thomas Tracey, udacity_data_engineering, (2019), GitHub repository,
+https://github.com/tommytracey/udacity_data_engineering/tree/master/p3_data_warehouse_redshift
+
