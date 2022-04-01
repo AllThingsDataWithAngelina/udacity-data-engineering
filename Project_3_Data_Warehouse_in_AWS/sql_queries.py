@@ -109,7 +109,7 @@ song_table_create = ("""
 """)
 
 time_table_create = ("""
-    CREATE TABLE IF NOT EXISTS "time"(
+    CREATE TABLE IF NOT EXISTS time(
       start_time TIMESTAMP PRIMARY KEY SORTKEY,
             hour INTEGER,
              day INTEGER,
